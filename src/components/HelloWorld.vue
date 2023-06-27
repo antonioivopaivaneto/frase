@@ -58,9 +58,15 @@ export default defineComponent({
     background-color: #ffe600;
     color:rgb(40, 40, 40);
     padding: 10px;
+    font-size: 25px;
     border:0;
     border-radius: 5px;
     width: 200px;
+    transition:0.3ms;
+
+  }
+  .btn:hover{
+    background-color: #baa802;;
 
   }
 
